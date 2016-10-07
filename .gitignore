@@ -1,0 +1,17 @@
+*.opensdf
+Cannibals.sdf
+*.sln
+Cannibals.v12.suo
+*.vcxproj
+Cannibals.vcxproj.filters
+*.exe
+Debug/Cannibals.ilk
+*.log
+Debug/Cannibals.pdb
+*.lastbuildstate
+Debug/Cannibals.tlog/cl.command.1.tlog
+*.tlog
+Debug/GameState.obj
+*.obj
+Debug/vc120.idb
+*.pdb
